@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChetanMorey44/WeatherProject.git/static/css/main.3551bccb.css",
+    "main.js": "/ChetanMorey44/WeatherProject.git/static/js/main.6bd6f279.js",
+    "static/js/787.0c3f432a.chunk.js": "/ChetanMorey44/WeatherProject.git/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/ChetanMorey44/WeatherProject.git/index.html",
+    "main.3551bccb.css.map": "/ChetanMorey44/WeatherProject.git/static/css/main.3551bccb.css.map",
+    "main.6bd6f279.js.map": "/ChetanMorey44/WeatherProject.git/static/js/main.6bd6f279.js.map",
+    "787.0c3f432a.chunk.js.map": "/ChetanMorey44/WeatherProject.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3551bccb.css",
+    "static/js/main.6bd6f279.js"
+  ]
+}
